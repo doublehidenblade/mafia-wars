@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/warlords/static/css/main.8927bdaa.chunk.css",
+    "main.js": "/warlords/static/js/main.23d44ceb.chunk.js",
+    "main.js.map": "/warlords/static/js/main.23d44ceb.chunk.js.map",
+    "runtime~main.js": "/warlords/static/js/runtime~main.50468c32.js",
+    "runtime~main.js.map": "/warlords/static/js/runtime~main.50468c32.js.map",
+    "static/js/2.b770d6c5.chunk.js": "/warlords/static/js/2.b770d6c5.chunk.js",
+    "static/js/2.b770d6c5.chunk.js.map": "/warlords/static/js/2.b770d6c5.chunk.js.map",
+    "index.html": "/warlords/index.html",
+    "precache-manifest.96349692fbbb5e0c5fc2ef2ebe1e6a6a.js": "/warlords/precache-manifest.96349692fbbb5e0c5fc2ef2ebe1e6a6a.js",
+    "service-worker.js": "/warlords/service-worker.js",
+    "static/css/main.8927bdaa.chunk.css.map": "/warlords/static/css/main.8927bdaa.chunk.css.map"
+  }
+}
