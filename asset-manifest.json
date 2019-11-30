@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/warlords/static/css/main.aae5fa00.chunk.css",
-    "main.js": "/warlords/static/js/main.eb62ca22.chunk.js",
-    "main.js.map": "/warlords/static/js/main.eb62ca22.chunk.js.map",
-    "runtime~main.js": "/warlords/static/js/runtime~main.50468c32.js",
-    "runtime~main.js.map": "/warlords/static/js/runtime~main.50468c32.js.map",
-    "static/js/2.bce713e4.chunk.js": "/warlords/static/js/2.bce713e4.chunk.js",
-    "static/js/2.bce713e4.chunk.js.map": "/warlords/static/js/2.bce713e4.chunk.js.map",
-    "index.html": "/warlords/index.html",
-    "precache-manifest.49d7c68df1c82b6e00612d351d1f67d2.js": "/warlords/precache-manifest.49d7c68df1c82b6e00612d351d1f67d2.js",
-    "service-worker.js": "/warlords/service-worker.js",
-    "static/css/main.aae5fa00.chunk.css.map": "/warlords/static/css/main.aae5fa00.chunk.css.map"
+    "main.css": "/mafia-wars/static/css/main.6f3f97fa.chunk.css",
+    "main.js": "/mafia-wars/static/js/main.eb62ca22.chunk.js",
+    "main.js.map": "/mafia-wars/static/js/main.eb62ca22.chunk.js.map",
+    "runtime~main.js": "/mafia-wars/static/js/runtime~main.ca1ecec4.js",
+    "runtime~main.js.map": "/mafia-wars/static/js/runtime~main.ca1ecec4.js.map",
+    "static/js/2.bce713e4.chunk.js": "/mafia-wars/static/js/2.bce713e4.chunk.js",
+    "static/js/2.bce713e4.chunk.js.map": "/mafia-wars/static/js/2.bce713e4.chunk.js.map",
+    "index.html": "/mafia-wars/index.html",
+    "precache-manifest.d1c4e3f6d7feaa89c4fd674e0099c208.js": "/mafia-wars/precache-manifest.d1c4e3f6d7feaa89c4fd674e0099c208.js",
+    "service-worker.js": "/mafia-wars/service-worker.js",
+    "static/css/main.6f3f97fa.chunk.css.map": "/mafia-wars/static/css/main.6f3f97fa.chunk.css.map"
   }
 }
