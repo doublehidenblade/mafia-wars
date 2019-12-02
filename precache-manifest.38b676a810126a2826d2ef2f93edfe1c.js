@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0461795ff26d404b94c8d7fdf5b6e310",
+    "revision": "b7fdee0429bcc890878a95d1d90e7355",
     "url": "/mafia-wars/index.html"
   },
   {
-    "revision": "d7e958199bf7f235bc88",
+    "revision": "5564f37759993333d989",
     "url": "/mafia-wars/static/css/main.221050d3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mafia-wars/static/js/2.9d65af2e.chunk.js"
   },
   {
-    "revision": "d7e958199bf7f235bc88",
-    "url": "/mafia-wars/static/js/main.7e3ad645.chunk.js"
+    "revision": "5564f37759993333d989",
+    "url": "/mafia-wars/static/js/main.0c1253a3.chunk.js"
   },
   {
     "revision": "2f270c633ee2bcbe11c9",
