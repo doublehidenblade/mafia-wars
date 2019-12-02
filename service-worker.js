@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mafia-wars/precache-manifest.ac2191ebe72bb7c49e5b8d32208bfaf5.js"
+  "/mafia-wars/precache-manifest.dbfffc7fdd6be04120a610279f750113.js"
 );
 
 self.addEventListener('message', (event) => {
