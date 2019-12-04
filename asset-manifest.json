@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mafia-wars/static/css/main.0d9af803.chunk.css",
-    "main.js": "/mafia-wars/static/js/main.c86a926c.chunk.js",
-    "main.js.map": "/mafia-wars/static/js/main.c86a926c.chunk.js.map",
+    "main.css": "/mafia-wars/static/css/main.0f7e9ccb.chunk.css",
+    "main.js": "/mafia-wars/static/js/main.63b49fec.chunk.js",
+    "main.js.map": "/mafia-wars/static/js/main.63b49fec.chunk.js.map",
     "runtime~main.js": "/mafia-wars/static/js/runtime~main.ca1ecec4.js",
     "runtime~main.js.map": "/mafia-wars/static/js/runtime~main.ca1ecec4.js.map",
     "static/js/2.9bedd4a4.chunk.js": "/mafia-wars/static/js/2.9bedd4a4.chunk.js",
     "static/js/2.9bedd4a4.chunk.js.map": "/mafia-wars/static/js/2.9bedd4a4.chunk.js.map",
     "index.html": "/mafia-wars/index.html",
-    "precache-manifest.7513252095b284d5c4ad5c4e4c9290b1.js": "/mafia-wars/precache-manifest.7513252095b284d5c4ad5c4e4c9290b1.js",
+    "precache-manifest.e46163ce1cd35b5f9474749d0e847064.js": "/mafia-wars/precache-manifest.e46163ce1cd35b5f9474749d0e847064.js",
     "service-worker.js": "/mafia-wars/service-worker.js",
-    "static/css/main.0d9af803.chunk.css.map": "/mafia-wars/static/css/main.0d9af803.chunk.css.map"
+    "static/css/main.0f7e9ccb.chunk.css.map": "/mafia-wars/static/css/main.0f7e9ccb.chunk.css.map"
   }
 }
